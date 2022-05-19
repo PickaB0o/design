@@ -1,0 +1,61 @@
+body {
+	background-color: hotpink;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50;
+	font-family: "Baskerville", sans-serif;
+}
+
+h1 {
+	color: #1CB592;
+	font-size: 52px;
+}
+
+h2 {
+	color: #9AEDDA;
+}
+
+.picture-laptop {
+	width: 1000px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.picture-laptop {
+	width: 500px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.center-content {
+	text-align: center;
+}
+
+div {
+	padding: 100px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+.video-center {
+	text-align: center;
+}
+
+.link-aligned {
+	display: flex;
+justify-content: space-around;
+padding: 3%;
+border: 2px solid #5F82B4;
+}
+
+a {
+	color: #5F8284;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	font-weight: 900;
+}
+
